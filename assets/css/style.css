@@ -1,4 +1,13 @@
+h1 {
+    text-align: center;
+}
+
 img {
     height: 200px;
     width: auto;
+}
+
+#winMessage {
+    text-align: center;
+    color: pink;
 }
